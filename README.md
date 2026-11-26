@@ -2,6 +2,8 @@
 
 Aplikasi web pengelolaan daftar tugas perkuliahan yang dibuat menggunakan **Vite** dan **TypeScript** (Vanilla).
 
+## Link Website: https://draft-tugaskuliah.rf.gd/
+
 ## Fitur Utama
 - Menampilkan daftar tugas kuliah beserta progres dan statistik penyelesaian.
 - Menambahkan tugas baru (judul tugas, mata kuliah, tenggat waktu).
